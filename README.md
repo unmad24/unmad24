@@ -1,18 +1,18 @@
 ## Hey there 👋
 
-### I am a forever noob ACM problem solver, now started **frontend development** using **ReactJS** library with **Bootstrap5** and **Tailwind CSS**. My full stack journey will be started soon with **NodeJS** and **MongoDB**, so consider me as a future **MERN stack developer**.
+### I am a forever noob ACM problem solver. <br/><br/>Now started **frontend development** using **ReactJS** library with **Bootstrap5** and **Tailwind CSS**. <br/><br/> My full stack journey will be started soon with **NodeJS** and **MongoDB**, so consider me as a future **MERN stack developer**.
 
-- 🔭 My industry experience:  **ReactJS, Bootstrap, Tailwind CSS and NextJS**
-- Built 15+ **Bootstrap5** and **Tailwind** tamplate with **React**
+- 🔭 My industry experience:  **ReactJS, Bootstrap5, Tailwind CSS and NextJS**
+- Built 15+ **Bootstrap5** and **Tailwind** tamplate with **ReactJS**
 - 🌱 I’m currently learning **TypeScript** and **ExpressJS**(**NodeJS**)
 - Upcoming bucket list for learning **MongoDB**
 - 💬 Ask me about **ReactJS** and **Tailwind CSS** tricks :right_anger_bubble:
 <br/>
 
 **Research** **interest**: Natural Language Processing, SDLC, Machine Learning Software Development and Deep Learning.
-- Ongoing research: **NLP and Deep Learning** (A deep learning approach to detect plagiarism in Bangla texual content using similarity algorithms) 
-- Short term goal: AI integration in Software Development Life Cycle(SDLC)
-- One of my long term goals: Working on Software Architecture in AI perspective
+- Ongoing research: **NLP and Deep Learning** (A deep learning approach to detect plagiarism in Bangla texual content using similarity algorithms)
+- Short term goal: AI integration in Software Development Life Cycle(SDLC).
+- One of my long term goals: Working on Software Architecture in AI perspective.
 
 **Thank You for visiting my profile.**
 
