@@ -8,11 +8,13 @@
 - Upcoming bucket list for learning **MongoDB**
 - 💬 Ask me about **ReactJS** and **Tailwind CSS** tricks :right_anger_bubble:
 <br/>
-<br/>
-<br/>
-**Research interest:** Natural Language Processing, SDLC, Machine Learning Software Development and Deep Learning.
+
+**Research** **interest**: Natural Language Processing, SDLC, Machine Learning Software Development and Deep Learning.
+- Ongoing research: **NLP and Deep Learning** (A deep learning approach to detect plagiarism in Bangla texual content using similarity algorithms) 
 - Short term goal: AI integration in Software Development Life Cycle(SDLC)
-- One of my long term goals: Working on Software Architecture
+- One of my long term goals: Working on Software Architecture in AI perspective
+
+**Thank You for visiting my profile.**
 
 <!--
 **unmad24/unmad24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
