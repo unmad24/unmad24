@@ -1,12 +1,12 @@
 ## Hey there 👋
 
-### I am a forever noob ACM problem solver. <br/><br/>Now started **frontend development** using **ReactJS**(with Redux) library with **Bootstrap5** and **Tailwind CSS**. <br/><br/> My full stack journey will be started soon with **NodeJS** and **MongoDB**, so consider me as a future **MERN stack developer**.
+### I am a forever noob ACM problem solver. <br/><br/>Now started **frontend development** using JavaScript library **ReactJS**(with Redux), **Bootstrap5** and **Tailwind CSS** to convert psd/figma designs into pixel-perfect websites. <br/><br/> My full stack journey will be started soon with **NodeJS** and **MongoDB**, so consider me as a future **MERN stack developer**.
 
-- 🔭 My industry experience:  **ReactJS(With Redux), Bootstrap5, Tailwind CSS and NextJS**
+- My industry experience:  **ReactJS(With Redux), Bootstrap5, Tailwind CSS and NextJS**
 - Built 15+ **Bootstrap5** and **Tailwind** tamplate with **ReactJS**
-- 🌱 I’m currently learning **TypeScript** and **ExpressJS**(**NodeJS**)
+- I’m currently learning **TypeScript** and **ExpressJS**(**NodeJS**)
 - Upcoming bucket list for learning **MongoDB**
-- 💬 Ask me about **ReactJS** and **Tailwind CSS** tricks :right_anger_bubble:
+- Ask me about **ReactJS** and **Tailwind CSS** tricks
 <br/>
 
 **Research** **interest**: Natural Language Processing, SDLC, Machine Learning Software Development and Deep Learning.
