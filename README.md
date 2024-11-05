@@ -1,8 +1,8 @@
 ## Hey there 👋
 
-### I am noob ACM problem solver. <br/><br/>Now working as **Software Engineer** at SoftBD Ltd. Dhaka, Bangladesh. Have experience in JavaScript library **ReactJS**(with Redux), **Bootstrap5** and **Tailwind CSS** to convert psd/figma designs into pixel-perfect websites and backend development using Express and NestJS  and TypeScript.
+### I am noob ACM problem solver. <br/><br/>Now working as an Assistant Programmer at International Islamic University Chittagong. Previously worked as a **Software Engineer** at SoftBD Ltd. Dhaka, Bangladesh. Have experience in JavaScript library **ReactJS**(with Redux), **Bootstrap5** and **Tailwind CSS** to convert psd/figma designs into pixel-perfect websites and backend development using Express and NestJS  and TypeScript.
 
-- My industry experience:  **ReactJS(With Redux), Bootstrap5, Tailwind CSS, NodeJS(NestJS), TypeScript, TypeORM, MySQL**
+- My industry experience:  **NodeJS(NestJS)**, **ReactJS(With Redux), Bootstrap5, Tailwind CSS, TypeScript, TypeORM, MySQL**
 - Built 15+ **Bootstrap5** and **Tailwind** tamplate with **ReactJS**
 - I’m currently learning **TypeScript** and **ExpressJS and NestJS**(**NodeJS**)
 - Upcoming bucket list for learning **MongoDB**, **NextJS**
